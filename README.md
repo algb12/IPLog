@@ -79,3 +79,6 @@ IPLog supports numerous config options, which alter its behavior, which are conf
 
 ## Screenshots
 Screenshots of IPLog in action can be found in the `IPLog_screenshots` directory. IP addresses have been redacted for data protection purposes.
+
+## What about proxies?
+Yes, smart hackers will use proxies, but not all will do so! IPLog is not a cure-all when it comes to logging hacker IPs - it merely does what it does as well as possible, within the limits of IP addresses and proxy technologies.
